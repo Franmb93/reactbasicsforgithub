@@ -5,10 +5,6 @@ import AllMeetupsPage from './pages/AllMeetups';
 import FavoritesPage from './pages/Favorites';
 import NewMeetupsPage from './pages/NewMeetup';
 
-
-
-
-
 function App() {
     return ( <div className = "App" >
       <Routes>
